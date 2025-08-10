@@ -44,17 +44,25 @@ and I know where it may be.
 
 ## Places:
 
-[Congregational Church](https://maps.app.goo.gl/Vod1g2HWYf1yBtrb8): White steepled protestant church.
+[**Congregational Church**](https://maps.app.goo.gl/Vod1g2HWYf1yBtrb8): White steepled protestant church.
 
-[St. Joseph's Church](https://maps.app.goo.gl/xPiAnfgjac5kMdfK8): Catholic, topped with a golden cross.
+[**St. Joseph's Church**](https://maps.app.goo.gl/xPiAnfgjac5kMdfK8): Catholic, topped with a golden cross.
 
+
+**Schoolhouse**: old wooden schoolhouse. Houses the grade school. (up to 9th grade) Located at the end of Maple St.
+
+**Courthouse**: old domed building, greenish roof. Old men congregate here. Located at corner of Elm and Maple.
+
+**Peyton Place Times**: located across from courthouse.  First floor. Corner of Elm and Maple?
+
+**Citizens National Bank**: located across from courthouse. Has the town clock. Corner of Elm and Maple?
 
 
 
 ## Streets
-Elm - main business district, line with shops with awnings. Six blocks long. Bookended by competing churches.
+**Elm Street** : main business district, line with shops with awnings. Six blocks long. Bookended by competing churches.
 
-Maple- Bisects Elm. Lined with trees and houses. Dead ends into a field. End has the grade school
+**Maple Street**: Bisects Elm St. Lined with trees and houses. Dead ends into a field. End has the grade school
 on one side and the high school on the other.
 
 
