@@ -57,6 +57,10 @@ and I know where it may be.
 
 **Citizens National Bank**: located across from courthouse. Has the town clock. Corner of Elm and Maple?
 
+**Road's End**: Up the hill east of town, where the road ends at a wooden plank. A woody, rocky area largely ignored by
+town folk. Allison MacKenzie's secret alone-place.
+
+**Thrifty Corner Apparel Shoppe** - Allison MacKenzie's mother's shop on East Elm.
 
 
 ## Streets
