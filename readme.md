@@ -50,7 +50,19 @@ Owns Thrifty Corner Apparel, dresses sharply. Uses big city words in daily speec
 Lies about Allison's age making her out to be one year younger than she actually is.
 
 
-**Elizabeth Standish**: Allison's late grandmother, mother of Constance. 
+**Elizabeth Standish**: Allison's late grandmother, mother of Constance.
+
+
+**Charlie and Marion Partridge**: Resident of West Chestnut Street. Elderly childless. Charlie is the town's leading attorney.
+
+**Dexter Humphrey**: Resident of West Chestnut Street. President of Citizen's National Bank
+
+**Leightton Philbrook**: Resident of West Chestnut Street. Lumber magnate.
+
+**Jared Clarke**: Resident of West Chestnut Street. Feed grain magnate.
+
+**Peter Drake**: attorney.
+
 
 ## Places:
 
@@ -75,12 +87,6 @@ of the town ladies buy their clothes.
 
 **Cumberland Mills**: Harrington's business.
 
-**Charlie and Marion Partridge**: Resident of West Chestnut Street. Elderly childless. Charlie is the town's leading attorney. 
-**Dexter Humphrey**: Resident of West Chestnut Street. President of Citizen's National Bank
-**Leightton Philbrook**: Resident of West Chestnut Street. Lumber magnate.
-**Jared Clarke**: Resident of West Chestnut Street. Feed grain magnate.
-
-**Peter Drake**: attorney.
 
 
 
