@@ -7,6 +7,26 @@ When I think a location in the book is inspired by a real place, I will include 
 and I know where it may be.
 
 
+## IRL Peyton Place
+The town is fictional, but clearly inspired by a cluster of town in New Hampshire.
+
+### [Belmont, NH](https://maps.app.goo.gl/BB4L4taLdNsgF2P67)
+The bookend churches are clearly in Belmont, NH. The author didn't even change the name of
+one of them. Today both churches match their physical description in the book right down to
+the gold cross on one of them.
+
+### [Gilmanton NH](https://maps.app.goo.gl/qJ6YMt4ynNjZBTPZ7)
+According to residents at the time of publication, the characters and dramas were clearly drawn from
+the actual people of Gilmanton, where the author happened to live.
+
+### [Tilton NH](https://maps.app.goo.gl/3Kd4cjTDET1gdBQ49)
+Many street names match and to some extent the town layout. The houses in Tilton look to be of the
+right age and style to match those described in the book.
+
+
+
+
+
 ## Main Characters
 
 
@@ -57,6 +77,11 @@ by bribing his employees to vote against it. (his son goes to the old schoolhous
 with mother Constance, who embarrasses Allison with her big city ways. Has no idea about the squalid conditions Selena lives in
 despite having been outside her house.
 
+
+
+**Buck McCracken**: Sherriff
+**Henry McCracken**: Buck's brother and one of the town drunks.
+
 **Little Norman Page**: bully magnet. "worse than a bastard-child"
 
 **Evelyin Page** Norman's manipulative mother. Possibly Oakleigh's blood relative, unclear but implied.
@@ -99,7 +124,12 @@ St across from Harrington in a large white pillared house. Widow. Runs the town 
 
 **Cumberland Mills**: Harrington's business.
 
-[**Congregational Church**](https://maps.app.goo.gl/Vod1g2HWYf1yBtrb8): White steepled protestant church.
+**Congregational Church**: White steepled protestant church.
+
+[Tilton Congregational Church](https://maps.app.goo.gl/YW7eaQrFrM4oAUWr6) Probably this is the one which inspired the one
+in the book, though the bookend layout is from the Baptist church in Belmont.
+
+[Baptist Church in Belmtnt](https://maps.app.goo.gl/Vod1g2HWYf1yBtrb8) fits the bookend layout in Chapter 1
 
 **Courthouse**: old domed building, greenish roof. Old men congregate here. Located at corner of Elm and Maple.
 
@@ -114,6 +144,9 @@ town folk. Allison MacKenzie's secret alone-place. Also the local make out point
 
 **Thrifty Corner Apparel Shoppe** - Allison MacKenzie's mother's (Constance Standish) shop on East Elm. Where most
 of the town ladies buy their clothes. 
+
+**[White River](https://maps.app.goo.gl/8Ufig2HhrYRhYHPT6)**: nearby town where people go to buy booze.
+
 
 
 ## Streets
