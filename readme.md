@@ -129,7 +129,7 @@ St across from Harrington in a large white pillared house. Widow. Runs the town 
 [Tilton Congregational Church](https://maps.app.goo.gl/YW7eaQrFrM4oAUWr6) Probably this is the one which inspired the one
 in the book, though the bookend layout is from the Baptist church in Belmont.
 
-[Baptist Church in Belmtnt](https://maps.app.goo.gl/Vod1g2HWYf1yBtrb8) fits the bookend layout in Chapter 1
+[Baptist Church in Belmont](https://maps.app.goo.gl/Vod1g2HWYf1yBtrb8) fits the bookend layout in Chapter 1
 
 **Courthouse**: old domed building, greenish roof. Old men congregate here. Located at corner of Elm and Maple.
 
