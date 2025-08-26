@@ -19,11 +19,13 @@ and I know where it may be.
 
 **George Buswell**: Late father of Seth. Former Governor of NH. Crooked as a corkscrew.
 
-**Card Mr. & Mrs**: live next to Goodale. Own the town print shop.
+**Albert Card & Mrs**: live next to Goodale. Own the town print shop.
 
 **Ted Carter**: Mature boy of 14. Pushes back against Rodney. Has a crush on Selena Cross.
 
-**Jared Clarke**: Resident of West Chestnut Street. Feed grain magnate. Says Miss Goodale is "loony"
+**George Caswell**: former selectman.
+
+**Jared Clarke**: Resident of West Chestnut Street. Former selectman. Feed grain magnate. Bested by Miss Goodale.
 
 **Selena Cross**: 13 yo girl. Dark haired, pretty. Does odd jobs for spending money. Thinks Allison's house to be the lap of luxury.
 Witnesses her parents having sex in their one room shack. Resents her parents. Vows to never be like them.
@@ -32,12 +34,14 @@ Witnesses her parents having sex in their one room shack. Resents her parents. V
 Poor white trash. Lucas is Selena's violent drunken step-father. Nellie the fat ugly wife. Paul the eldest child, Selena the middle child. Joey the youngest child.
 The Crosses live in a single room tar paper shack south of town along an unnamed dirt road. Lucas is a skilled carpenter, when he wants to be.
 
+**Ben Davis**: former selectman.
+
 **Peter Drake**: Attorney.
 
 **Clayton Frazier**: old man, contrarian
 
 **Miss Hester Goodale**: Lives on Depot St. Mortal enemy (evidently) of Little Norman Page. Was fashionable as a young woman. Still
-wears the same outfits as an old lady. Reputed to be "loony".
+wears the same outfits as an old lady. Reputed to be "loony". Waiting for the return of a lover that left 40 years ago.
 
 **Rodney Harrington**: bully, too big for his age, 13 or 14.
 
@@ -55,7 +59,7 @@ despite having been outside her house.
 
 **Little Norman Page**: bully magnet. "worse than a bastard-child"
 
-**Evelyin ???** Norman's mother. Possibly Oakleigh's blood relative, unclear but implied.
+**Evelyin Page** Norman's manipulative mother. Possibly Oakleigh's blood relative, unclear but implied.
 
 **Oakleigh Page** dead as a doornail. Former ladies man. Father of Little Norman and the Page Sisters.
 
