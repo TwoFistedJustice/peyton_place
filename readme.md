@@ -6,6 +6,19 @@ in the 1956 novel Peyton Place by Grace Metalious
 When I think a location in the book is inspired by a real place, I will include a link if it still exists
 and I know where it may be.
 
+The story seems to be semi-autobiographical. It probably takes place sometime between 1938 and 1941 judging
+by Allison's infatuation with the music of Glenn Miller and the fact that her mother had never heard of Glenn
+Miller, suggesting it was before his peak of popularity.
+
+
+
+## Grace Metalious
+
+The [famous photo](https://cultfilmalley.com.au/2021/05/06/the-genius-of-writer-grace-metalious-and-return-to-peyton-place-1961-part-two/) 
+of the author in front of the white cupolaed building was taken at the former [Gilmanton Public Library](https://maps.app.goo.gl/eFe6Tq4PYgyaWjJk8)
+
+
+
 
 ## IRL Peyton Place
 The town is fictional, but clearly inspired by a cluster of town in New Hampshire.
@@ -28,7 +41,11 @@ right age and style to match those described in the book.
 
 
 ## Main Characters
-
+Allison
+Selena
+Doc Swain
+Lucas Cross
+Leslie Harrington
 
 
 ## Townfolk
@@ -43,9 +60,11 @@ right age and style to match those described in the book.
 
 **Ted Carter**: Mature boy of 14. Pushes back against Rodney. Has a crush on Selena Cross.
 
+**Roberta Carter**: Ted's mother. Member of schoolboard.
+
 **George Caswell**: former selectman.
 
-**Jared Clarke**: Resident of West Chestnut Street. Former selectman. Feed grain magnate. Bested by Miss Goodale.
+**Jared Clarke**: Resident of West Chestnut Street. Former selectman. Feed grain magnate. Resents Miss Goodale.
 
 **Selena Cross**: 13 yo girl. Dark haired, pretty. Does odd jobs for spending money. Thinks Allison's house to be the lap of luxury.
 Witnesses her parents having sex in their one room shack. Resents her parents. Vows to never be like them.
@@ -58,29 +77,41 @@ The Crosses live in a single room tar paper shack south of town along an unnamed
 
 **Peter Drake**: Attorney.
 
+**Lucy Ellsworth**: New resident to PP, nurse at hospital. Wife to John, whom she plans to leave. Mother to Kathy.
+**John Ellsworth**: husband to Lucy. Restless, frequent job changer. Employed at Cumberland Mill. Father to Kathy.
+**Kathy Ellsworth**: 13 yo girl. Daughter of Lucy and John. She is the reason her parents stay together.
+
+**Abner Firth**: Principal of schools. English teacher.
+
 **Clayton Frazier**: old man, contrarian
 
 **Miss Hester Goodale**: Lives on Depot St. Mortal enemy (evidently) of Little Norman Page. Was fashionable as a young woman. Still
-wears the same outfits as an old lady. Reputed to be "loony". Waiting for the return of a lover that left 40 years ago.
+wears the same outfits as an old lady. Reputed to be "loony". Waiting for the return of a lover that left 40 years ago. Bested Jared Clarke.
 
 **Rodney Harrington**: bully, too big for his age, 13 or 14.
 
-**Leslie Harrington**: Rodney's father. Wealthy. Livs on Chestnut St across from Dr Swain in a large red brick house.
-Owns Cumberland Mills, on Board of Trustees of Citizen's Bank. Successfully lobbied against building a modern schoolhouse
+**Leslie Harrington**: Rodney's father. Wealthy. Lives on Chestnut St across from Dr Swain in a large red brick house.
+Owns Cumberland Mills, on Board of Trustees of Citizen's Bank, chairman of schoolboard. Successfully lobbied against building a modern schoolhouse
 by bribing his employees to vote against it. (his son goes to the old schoolhouse).
 
 **Dexter Humphrey**: Resident of West Chestnut Street. President of Citizen's National Bank
 
 **Isobel** Doc Swain's housekeeper. 
 
+**Therodore Janowski**: millworker and member of schoolboard.
+
+**Mary Kelly**: Youngish nurse at PP hospital. Lifteime PP resident.
+
+
 **Allison MacKenzie**: Main character. Story is told from her pov. 13 y.o. girl, still has babyfat. Late bloomer. Insecure about body. Likes to read. Lives on Beech St
 with mother Constance, who embarrasses Allison with her big city ways. Has no idea about the squalid conditions Selena lives in
 despite having been outside her house.
 
+**Tomas Makris**: New Yorker. Principal of schools. English teacher. Bested Leslie Harrington.
 
 
 **Buck McCracken**: Sherriff
-**Henry McCracken**: Buck's brother and one of the town drunks.
+**Henry McCracken**: Buck's brother and one of the town drunks. Youngish, rakish when cleaned up.
 
 **Little Norman Page**: bully magnet. "worse than a bastard-child"
 
@@ -91,9 +122,10 @@ despite having been outside her house.
 **Page Sisters**: Caroline and Charlotte. Middle aged daughters of Oakleigh and half-sisters of Little Norman Page. Bitter old maids. 
 Live on Depot St.
 
-**Charlie and Marion (nee Saltmarsh) Partridge**: Resident of West Chestnut Street. Elderly childless. Charlie is the town's leading attorney. Marion
-thinks much of herself but is quite mediocre. She dislikes Doc Swain because he doesn't pretend to be impressed with her like others
-do.
+**Charles Partridge**: Resident of West Chestnut Street. Elderly childless. Charlie is the town's leading attorney. 
+
+**Marion (nee Saltmarsh) Partridge** Wife of Charles. Marion thinks much of herself but is quite mediocre. She 
+dislikes Doc Swain because he doesn't pretend to be impressed with her like others do.
 
 **Leightton Philbrook**: Resident of West Chestnut Street. Lumber magnate.
 
@@ -112,7 +144,7 @@ Allison's age making her out to be one year younger than she actually is. Doesn'
 **Matt Swain, Dr**: 60 yo. Known for his kindness, thick wavy silver hair, and twinkling blue eyes. Seth's best friend. Lives on Chestnut
 St across from Harrington in a large white pillared house. Widow. Runs the town hospital. Lewd humor.
 
-**Elsie Thornton**: Youngish schoolteacher of 7 years. Graduate of Smith College.
+**Elsie Thornton**: Youngish (or oldish depending on chapter) schoolteacher of 7 years. Graduate of Smith College. 
 
 
 
@@ -132,6 +164,10 @@ in the book, though the bookend layout is from the Baptist church in Belmont.
 [Baptist Church in Belmont](https://maps.app.goo.gl/Vod1g2HWYf1yBtrb8) fits the bookend layout in Chapter 1
 
 **Courthouse**: old domed building, greenish roof. Old men congregate here. Located at corner of Elm and Maple.
+
+**Five and Ten Cent Store**: the 1930s version of a dollar store. 
+
+**Peyton Place Hospital**: Doc Swain's demesne.
 
 **Peyton Place Times**: located across from courthouse.  First floor. Corner of Elm and Maple?
 
