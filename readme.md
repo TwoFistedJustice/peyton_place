@@ -96,6 +96,8 @@ by bribing his employees to vote against it. (his son goes to the old schoolhous
 
 **Dexter Humphrey**: Resident of West Chestnut Street. President of Citizen's National Bank
 
+**Corey Hyde**: runs Hyde's diner.
+
 **Isobel** Doc Swain's housekeeper. 
 
 **Therodore Janowski**: millworker and member of schoolboard.
@@ -107,10 +109,16 @@ by bribing his employees to vote against it. (his son goes to the old schoolhous
 with mother Constance, who embarrasses Allison with her big city ways. Has no idea about the squalid conditions Selena lives in
 despite having been outside her house.
 
-**Tomas Makris**: New Yorker. Principal of schools. English teacher. Bested Leslie Harrington.
+**Constance MacKenzie (nee Standish)**: 33 yo. Blonde, pretty. Allison's unwed mother. Mistress "widow" of the late Allison MacKenzie well-to-do businessman
+of NYC. Owns Thrifty Corner Apparel, dresses sharply. Uses big city words in daily speech. Says "dinner" instead of "supper". Lies about
+Allison's age making her out to be one year younger than she actually is. Also lies about her own last name, it isn't really MacKenzie. Doesn't
+approve of Allison's friendship with PWT Selena.
 
+**Tomas Makris**: New Yorker. 36yo. Honest, hot-tempered, good looking, very intelligent. Principal of schools. English teacher. Bested Leslie Harrington. 6'4", muscular, fit,
+212 lbs. Worked a year at a steel mill for the experience, despite having a Master's degree from Columbia.
 
 **Buck McCracken**: Sherriff
+
 **Henry McCracken**: Buck's brother and one of the town drunks. Youngish, rakish when cleaned up.
 
 **Little Norman Page**: bully magnet. "worse than a bastard-child"
@@ -120,20 +128,22 @@ despite having been outside her house.
 **Oakleigh Page** dead as a doornail. Former ladies man. Father of Little Norman and the Page Sisters.
 
 **Page Sisters**: Caroline and Charlotte. Middle aged daughters of Oakleigh and half-sisters of Little Norman Page. Bitter old maids. 
-Live on Depot St.
+Live at the corner of Elm and Depot St in a white cupolaed house.
 
 **Charles Partridge**: Resident of West Chestnut Street. Elderly childless. Charlie is the town's leading attorney. 
 
 **Marion (nee Saltmarsh) Partridge** Wife of Charles. Marion thinks much of herself but is quite mediocre. She 
 dislikes Doc Swain because he doesn't pretend to be impressed with her like others do.
 
+**Samuel Peyton**: Long dead namesake of town. Imported a castle from England before the Civil War, which now lies in ruins.
+
 **Leightton Philbrook**: Resident of West Chestnut Street. Lumber magnate.
+
+**Parker Rhodes**: 60 yo. Runs the train station. Lives on Laurel St.
 
 **John Saltmarsh** Marion Partridge's brother. A Baptist minister/evangelist. From a family of ministers.
 
-**Constance Standish**: 33 yo. Blonde, pretty. Allison's unwed mother. Mistress widow of the late Allison MacKenzie well-to-do businessman
-of NYC. Owns Thrifty Corner Apparel, dresses sharply. Uses big city words in daily speech. Says "dinner" instead of "supper". Lies about
-Allison's age making her out to be one year younger than she actually is. Doesn't approve of Allison's friendship with PWT Selena.
+
 
 **Elizabeth Standish**: Allison's late grandmother, mother of Constance.
 
@@ -181,6 +191,8 @@ town folk. Allison MacKenzie's secret alone-place. Also the local make out point
 **Thrifty Corner Apparel Shoppe** - Allison MacKenzie's mother's (Constance Standish) shop on East Elm. Where most
 of the town ladies buy their clothes. 
 
+**Train Station**: 19th century construction. Interior decorated with golden oak all about.
+
 **[White River](https://maps.app.goo.gl/8Ufig2HhrYRhYHPT6)**: nearby town where people go to buy booze.
 
 
@@ -191,9 +203,12 @@ of the town ladies buy their clothes.
 **Chestnut St**: Runs East/West one block south of Elm. Posh houses. The west end of the street is where Harringtong
 and Swain live.
 
-**Depot St**: Evidently a hotbed of gossip and petty rivalry. The Pages live here.
+**Depot St**: North side is industry. South sid is houses. Evidently a hotbed of gossip and petty rivalry. The Pages live
+here. Probably on the west side of Maple since Norman was surprised to see Allison.
 
-**Elm Street** : main business district, line with shops with awnings. Six blocks long. Bookended by competing churches.
+**Elm Street** : Main business district, lined with shops with awnings. Six blocks long. Bookended by competing churches.
+
+**Laurel**: Rhodes lives on this street.
 
 **Maple Street**: Bisects Elm St. Lined with trees and houses. Dead ends into a field. End has the grade school
 on one side and the high school on the other.
@@ -208,4 +223,20 @@ Buswell and Swain want zoning laws to force the residents to upgrade their dwell
 within town jurisdiction.
 
 **Page Family** Evidently they all hate each other just for being alive and related to one another. The Page sisters hate Norman and
-because their father shagged his mother resulting in him. 
+because their father shagged his mother resulting in him.
+
+## Map Notes
+I have the residential streets too far away from maple. There should be two N/S streets on either side of maple.
+Depot street definitely runs north and south of elm. Probably the others do as well. Depot is probably the 1st street
+east of Maple. 
+
+Train station is on North Depot St, two blocks north from Elm.
+
+Cumberland Mills is probably near the train station since they will need to load freight.
+
+
+
+The page sisters live on the corner of Elm and Depot, no doubt on the south side.
+
+
+Hyde's diner is 3 blocks west of Depot street.
