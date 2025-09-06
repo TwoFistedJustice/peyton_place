@@ -6,11 +6,11 @@ in the 1956 novel Peyton Place by Grace Metalious
 When I think a location in the book is inspired by a real place, I will include a link if it still exists
 and I know where it may be.
 
-The story seems to be semi-autobiographical. It probably takes place sometime between 1938 and 1941 judging
-by Allison's infatuation with the music of Glenn Miller and the fact that her mother had never heard of Glenn
-Miller, suggesting it was before his peak of popularity.
+The story seems to be semi-autobiographical. It begins in the autumn of 1936. Book 1 ends on June 20th, 1937. 
+Book 2 picks up two years later.
 
 
+Ages given are in 1937.
 
 ## Grace Metalious
 
@@ -22,6 +22,12 @@ of the author in front of the white cupolaed building was taken at the former [G
 
 ## IRL Peyton Place
 The town is fictional, but clearly inspired by a cluster of town in New Hampshire.
+
+Since White River (White River Junction?) is clearly the next town over, and the Connecticut River is visible from
+Peyton Place, I speculate the imaginary location is where IRL Canaan is. There's no physical resemblance between them.
+But I guess that since PP is clearly a den of iniquity, the author chose Canaan as a nod to the Biblical Canaan.
+
+The name Peyton Place may have been inspired by Gardner's Grove, a small town near (now part of) Belmont NH.
 
 ### [Belmont, NH](https://maps.app.goo.gl/BB4L4taLdNsgF2P67)
 The bookend churches are clearly in Belmont, NH. The author didn't even change the name of
@@ -36,16 +42,17 @@ the actual people of Gilmanton, where the author happened to live.
 Many street names match and to some extent the town layout. The houses in Tilton look to be of the
 right age and style to match those described in the book.
 
-
+**[Gardner's Grove NH](https://maps.app.goo.gl/SeCGSGYWVs2oYAeS9)** I think the name Peyton Place was inspired by this town.
 
 
 
 ## Main Characters
-Allison
-Selena
+Allison MacKenzie
+Selena Cross
 Doc Swain
 Lucas Cross
 Leslie Harrington
+Tomas Makris
 
 
 ## Townfolk
@@ -60,14 +67,21 @@ Leslie Harrington
 
 **Ted Carter**: Mature boy of 14. Pushes back against Rodney. Has a crush on Selena Cross.
 
-**Roberta Carter**: Ted's mother. Member of schoolboard.
+**Harmon Carter**: Ted's father. Bookkeeper at Cumberland Mill. Conniving scoundrel. Nothing like Ted.
+
+**Roberta "Bobbie" Carter (nee Welch)**: Ted's mother. Member of schoolboard. Conniving counterpart to her husband. 
+
+
+
 
 **George Caswell**: former selectman.
 
 **Jared Clarke**: Resident of West Chestnut Street. Former selectman. Feed grain magnate. Resents Miss Goodale.
 
-**Selena Cross**: 13 yo girl. Dark haired, pretty. Does odd jobs for spending money. Thinks Allison's house to be the lap of luxury.
+**Selena Cross (Chamberlain)**: 13 yo girl. Dark haired, pretty. Does odd jobs for spending money. Thinks Allison's house to be the lap of luxury.
 Witnesses her parents having sex in their one room shack. Resents her parents. Vows to never be like them.
+
+**Curtis Chamberlain** biological father of Selena Cross. Killed in 1924 when Selena was six weeks old.
 
 **Cross Family**
 Poor white trash. Lucas is Selena's violent drunken step-father. Nellie the fat ugly wife. Paul the eldest child, Selena the middle child. Joey the youngest child.
@@ -83,7 +97,12 @@ The Crosses live in a single room tar paper shack south of town along an unnamed
 
 **Abner Firth**: Principal of schools. English teacher.
 
-**Clayton Frazier**: old man, contrarian
+**Reverend Francis Fitzgerald**: pastor at the Congregationalist Church. Always asks if he'll see you at church on Sunday. Secretly
+wishes he were Catholic. In a bad marriage. Has social anxiety and is on the verge of a mental breakdown.
+
+**Margaret Fitzgerald**: The Reverend's ill-tempered wife. Hates her husband and pretty much everyone else for being alive.
+
+**Clayton Frazier**: old man, contrarian. Devil's advocate.
 
 **Miss Hester Goodale**: Lives on Depot St. Mortal enemy (evidently) of Little Norman Page. Was fashionable as a young woman. Still
 wears the same outfits as an old lady. Reputed to be "loony". Waiting for the return of a lover that left 40 years ago. Bested Jared Clarke.
@@ -102,8 +121,9 @@ by bribing his employees to vote against it. (his son goes to the old schoolhous
 
 **Therodore Janowski**: millworker and member of schoolboard.
 
-**Mary Kelly**: Youngish nurse at PP hospital. Lifteime PP resident.
+**Jinks**: the automotive garage owner and local used car seller.
 
+**Mary Kelly**: Youngish nurse at PP hospital. Lifteime PP resident.
 
 **Allison MacKenzie**: Main character. Story is told from her pov. 13 y.o. girl, still has babyfat. Late bloomer. Insecure about body. Likes to read. Lives on Beech St
 with mother Constance, who embarrasses Allison with her big city ways. Has no idea about the squalid conditions Selena lives in
@@ -115,15 +135,17 @@ Allison's age making her out to be one year younger than she actually is. Also l
 approve of Allison's friendship with PWT Selena.
 
 **Tomas Makris**: New Yorker. 36yo. Honest, hot-tempered, good looking, very intelligent. Principal of schools. English teacher. Bested Leslie Harrington. 6'4", muscular, fit,
-212 lbs. Worked a year at a steel mill for the experience, despite having a Master's degree from Columbia.
+212 lbs. Worked a year at a steel mill for the experience, despite having a Master's degree from Columbia. A bit rapey. Lives above Rev Fitzgerald. 
 
 **Buck McCracken**: Sherriff
 
 **Henry McCracken**: Buck's brother and one of the town drunks. Youngish, rakish when cleaned up.
 
+**Father O'Brien**: local Catholic priest. 
+
 **Little Norman Page**: bully magnet. "worse than a bastard-child"
 
-**Evelyin Page** Norman's manipulative mother. Possibly Oakleigh's blood relative, unclear but implied.
+**Evelyn Page** Norman's manipulative mother. Possibly Oakleigh's blood relative, unclear but implied.
 
 **Oakleigh Page** dead as a doornail. Former ladies man. Father of Little Norman and the Page Sisters.
 
@@ -139,11 +161,13 @@ dislikes Doc Swain because he doesn't pretend to be impressed with her like othe
 
 **Leightton Philbrook**: Resident of West Chestnut Street. Lumber magnate.
 
+**Doc Jerrold Quimby**: deceased predecessor to Doc Swain.
+
 **Parker Rhodes**: 60 yo. Runs the train station. Lives on Laurel St.
 
 **John Saltmarsh** Marion Partridge's brother. A Baptist minister/evangelist. From a family of ministers.
 
-
+**Mr. Shapiro**: Chicken farmer. Ted Carter's boss.
 
 **Elizabeth Standish**: Allison's late grandmother, mother of Constance.
 
@@ -176,6 +200,10 @@ in the book, though the bookend layout is from the Baptist church in Belmont.
 **Courthouse**: old domed building, greenish roof. Old men congregate here. Located at corner of Elm and Maple.
 
 **Five and Ten Cent Store**: the 1930s version of a dollar store. 
+
+**Hyde's Diner**: The nightime meeting spot.
+
+**[Mary Hitchcock Hospital](./assets/mary-hitchcock-hospital.jpg)**: Hospital in Hanover NH where Doc Swain cut his teeth. Built 1893. Demolished in 1995
 
 **Peyton Place Hospital**: Doc Swain's demesne.
 
@@ -210,7 +238,7 @@ here. Probably on the west side of Maple since Norman was surprised to see Allis
 
 **Laurel**: Rhodes lives on this street.
 
-**Maple Street**: Bisects Elm St. Lined with trees and houses. Dead ends into a field. End has the grade school
+**Maple Street**: Bisects Elm St. Second nicest street in PP. Lined with trees and houses. Dead ends into a field. End has the grade school
 on one side and the high school on the other.
 
 
@@ -234,9 +262,19 @@ Train station is on North Depot St, two blocks north from Elm.
 
 Cumberland Mills is probably near the train station since they will need to load freight.
 
-
+Beech Street is probably east of Maple. It is not the most easterly st bc in ch3 Allison is heading west from Road's End
+and the "next street" is hers, implying a previous st. So probably from West to East the order is Depot, Beech, Maple. Allison
+most likely lives near the end of the first block south of maple.
 
 The page sisters live on the corner of Elm and Depot, no doubt on the south side.
 
 
-Hyde's diner is 3 blocks west of Depot street.
+Hyde's diner is 3 blocks west of Depot street. Which puts Depot St east of Maple.
+
+Thrifty Corner shop is probably on the west side of Elm because Selena followed Doc Swain home from the shop. Which implies that
+it lay between his house on West Chestnut and either the hospital or PP times.
+
+**hospital** located a mile off of Elm on Route 406, a 3 laned highway to white river
+
+
+**Carter house** - two blocks north of schools on Maple
