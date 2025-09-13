@@ -58,6 +58,14 @@ Tomas Makris
 ## Townfolk
 
 **Betty Anderson**: 13 yo girl with breasts. Likes bad boys. Hangs on Rodney.
+**John Anderson**: Betty's father. Mill hand for Harrington.
+
+**Frank Barry**:  Mill hand for Harrington.
+**Walter Barry**: Teller at Citizen's National Bank. Gossip starts here.
+
+**Esther Bryant**: Secretary to Harrington. Big mouth.
+**Bryant**: clerk at hardware store. Bigger mouth.
+
 
 **Seth Buswell**: Editor of Peyton Place Times. Rival of Leslie Harrington.
 
@@ -201,16 +209,25 @@ in the book, though the bookend layout is from the Baptist church in Belmont.
 
 **Five and Ten Cent Store**: the 1930s version of a dollar store. 
 
+**Hotel Jackson**: fancy hotel in White River where Makris and Constance go for dinner and cocktails.
+
 **Hyde's Diner**: The nightime meeting spot.
 
 **[Mary Hitchcock Hospital](./assets/mary-hitchcock-hospital.jpg)**: Hospital in Hanover NH where Doc Swain cut his teeth. Built 1893. Demolished in 1995
+
+**Mudgett's Hardware**: hardware, fishing tackle.
+
 
 **Peyton Place Hospital**: Doc Swain's demesne.
 
 **Peyton Place Times**: located across from courthouse.  First floor. Corner of Elm and Maple?
 
+**Prescott's** The soda stand
+
 **Road's End**: Up the hill east of town, where the road ends at a wooden plank. A woody, rocky area largely ignored by
 town folk. Allison MacKenzie's secret alone-place. Also the local make out point for teen parking.
+
+**[Silver Lake](https://maps.app.goo.gl/ZEFJZKwdvbbg1Z36A)**: where kids go to park. IRL quite remote from anywhere PP might be.
 
 [**St. Joseph's Church**](https://maps.app.goo.gl/xPiAnfgjac5kMdfK8): Catholic, topped with a golden cross.
 
@@ -231,15 +248,24 @@ of the town ladies buy their clothes.
 **Chestnut St**: Runs East/West one block south of Elm. Posh houses. The west end of the street is where Harringtong
 and Swain live.
 
-**Depot St**: North side is industry. South sid is houses. Evidently a hotbed of gossip and petty rivalry. The Pages live
+**Depot St**: North side is industry. South side is houses. Evidently a hotbed of gossip and petty rivalry. The Pages live
 here. Probably on the west side of Maple since Norman was surprised to see Allison.
 
 **Elm Street** : Main business district, lined with shops with awnings. Six blocks long. Bookended by competing churches.
 
-**Laurel**: Rhodes lives on this street.
+**Laurel**: Rhodes lives on this street. We know it is south of Elm but not its orientation. Could be E/W or N/S. Rhodes passed Makris
+headed south on Depot.  
 
 **Maple Street**: Bisects Elm St. Second nicest street in PP. Lined with trees and houses. Dead ends into a field. End has the grade school
 on one side and the high school on the other.
+
+**Ash Street** "a narrow tumbledown street where the mill hands live." Betty Anderson lives here.
+
+
+## Gossip Chain
+Betty Anderson Chain:
+Walter Barry (bank) -> Miss Soames (bank) -> Pauline Bryant (hardware) -> Esther Bryant (secretary to Harrington) ->Pauline Bryant -> EVERYONE
+
 
 
 ## Tensions
@@ -253,28 +279,47 @@ within town jurisdiction.
 **Page Family** Evidently they all hate each other just for being alive and related to one another. The Page sisters hate Norman and
 because their father shagged his mother resulting in him.
 
+**Girls in Trouble** - Everyone is screwing everyone and judging everyone else for it.
+
+
+
+
 ## Map Notes
 I have the residential streets too far away from maple. There should be two N/S streets on either side of maple.
 Depot street definitely runs north and south of elm. Probably the others do as well. Depot is probably the 1st street
-east of Maple. 
+east of Maple.
 
-Train station is on North Depot St, two blocks north from Elm.
+It's also clear that Metallious's map was in her head or at least not well fleshed out. If White River is the nearest place to buy booze,
+the PP must be not far from it. But it can't be near White River and simultaneously only a couple miles bicycling distance from the
+Connecticut River. 
 
-Cumberland Mills is probably near the train station since they will need to load freight.
+**Train station** is on North Depot St, two blocks north from Elm.
 
-Beech Street is probably east of Maple. It is not the most easterly st bc in ch3 Allison is heading west from Road's End
+**Cumberland Mills** is probably near the train station since they will need to load freight.
+
+**Beech Street** is probably east of Maple. It is not the most easterly st bc in ch3 Allison is heading west from Road's End
 and the "next street" is hers, implying a previous st. So probably from West to East the order is Depot, Beech, Maple. Allison
 most likely lives near the end of the first block south of maple.
 
-The page sisters live on the corner of Elm and Depot, no doubt on the south side.
+
+**Churches** they are on opposite ends of Elm. We know that Depot street is far enough away from the Congregational Church that Makris
+noticed piano music coming from "as far away as Depot st" (b2c10). It was summer so windows would have been open and sound carried.
+
+The **page sisters** live on the corner of Elm and Depot, no doubt on the south side.
 
 
-Hyde's diner is 3 blocks west of Depot street. Which puts Depot St east of Maple.
+**Hyde's diner** is 3 blocks west of Depot street (from the night Makris arrived in town). Which puts Depot St east of Maple.
 
-Thrifty Corner shop is probably on the west side of Elm because Selena followed Doc Swain home from the shop. Which implies that
-it lay between his house on West Chestnut and either the hospital or PP times.
+**Thrifty Corner Shoppe** is probably on the west side of Elm because Selena followed Doc Swain home from the shop. Which implies that
+it lay between his house on West Chestnut and either the hospital or PP times. We KNOW from B2Ch10 that Makris had to cross Maple
+to get to Thrifty Corner from the parsonage. So it's on the opposite end of Elm from the Congregtional church.
 
-**hospital** located a mile off of Elm on Route 406, a 3 laned highway to white river
+**hospital** located a mile off of Elm on Route 406, a 3 laned highway to white river. Also located one mile from a bend in the 
+Conneticut river, which puts it the OTHER direction...  
 
 
 **Carter house** - two blocks north of schools on Maple
+
+**Meadow Pond**: where all the kids go swimming. Close to PP
+
+**Sandy Beach** small beachlet at a bend in the Connecticut River where Allison and Norman go.
